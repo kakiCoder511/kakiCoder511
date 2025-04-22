@@ -21,7 +21,7 @@ Think of it as a calm friend in the passenger seat — one that listens, reflect
 
 ## 📚 Background
 
-Before learning to code, I spent 10+ years in creative comms and video storytelling.  
+Before learning to code, I spent 10+ years in creative communications and video storytelling.  
 Now I’m connecting that emotional insight with interactive tech — building tools that **feel human**.
 
 📍 Based in Manchester  
