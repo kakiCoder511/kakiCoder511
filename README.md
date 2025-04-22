@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Kaki Lai
 
-<!--
-**kakiCoder511/kakiCoder511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a creative developer-in-training with a background in visual storytelling and emotional UX 
+— currently studying **JavaScript full stack development** at **Northcoders** (UK-based bootcamp).
 
-Here are some ideas to get you started:
+## 🚗 Building with heart: Commate Drive
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current passion project is **Commate Drive**, a voice-based Emotional AI assistant designed to support solo drivers — not just with directions, but with *empathy*.  
+Think of it as a calm friend in the passenger seat — one that listens, reflects, and speaks at just the right moment.
+
+🧠 Built with:
+- HTML / CSS / JavaScript (ES Modules)
+- Browser-native Speech Synthesis
+- Emotion-based logic & tone design
+- React + GPT API (coming soon)
+
+> “You’re not driving alone — Commate stays with you.”
+
+🔗 [See the project →](https://github.com/your-username/CommateDrive)
+
+---
+
+## 📚 Background
+
+Before learning to code, I spent 10+ years in creative comms and video storytelling.  
+Now I’m connecting that emotional insight with interactive tech — building tools that **feel human**.
+
+📍 Based in Manchester  
+📬 Open to junior dev roles, especially in creative tech / AI / UX innovation
+
+---
+
+## 🛠️ Let’s connect!
+
+Whether you're a dev, designer, or dreamer — if you care about emotional design or AI companionship, I’d love to chat!
+
