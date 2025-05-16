@@ -2,20 +2,6 @@
 
 I’m a creative developer-in-training with a background in visual storytelling and emotional UX — currently studying **JavaScript full stack development** at **Northcoders** (UK-based bootcamp).
 
-## 🚗 Building with heart: Commate Drive
-
-My current passion project is **Commate Drive**, a voice-based Emotional AI assistant designed to support solo drivers — not just with directions, but with *empathy*.  
-Think of it as a calm friend in the passenger seat — one that listens, reflects, and speaks at just the right moment.
-
-🧠 Built with:
-- HTML / CSS / JavaScript (ES Modules)
-- Browser-native Speech Synthesis
-- Emotion-based logic & tone design
-- React + GPT API (coming soon)
-
-> “You’re not driving alone — Commate stays with you.”
-
-🔗 [See the project →](https://github.com/your-username/CommateDrive)
 
 ---
 
@@ -42,4 +28,7 @@ Outside of code, I love:
 ## 🛠️ Let’s connect!
 
 Whether you're a dev, designer, or dreamer — if you care about emotional design or AI companionship, I’d love to chat!
+
+
+
 
