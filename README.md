@@ -10,12 +10,13 @@ I’m a creative developer-in-training with a background in visual storytelling 
 Before learning to code, I spent 10+ years in creative communications and video storytelling.  
 Now I’m connecting that emotional insight with interactive tech — building tools that **feel human**.
 
+🧪 Tech stack & skills
+I'm confident working with JavaScript, React, Express, and PostgreSQL — and I’m currently building full-stack apps using MVC architecture and Test-Driven Development (TDD). I enjoy solving problems with both logic and empathy.
+
 📍 Based in Manchester  
 📬 Open to junior dev roles, especially in creative tech / AI / UX innovation
 
 ---
-🧪 Tech stack & skills
-I'm confident working with JavaScript, React, Express, and PostgreSQL — and I’m currently building full-stack apps using MVC architecture and Test-Driven Development (TDD). I enjoy solving problems with both logic and empathy.
 
 
 ## 🧡 A bit more about me
