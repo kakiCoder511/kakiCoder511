@@ -2,7 +2,6 @@
 Junior dev | creative tech & emotion-driven tools | Manchester
 
 I’m a creative junior software developer with a background in visual storytelling and emotional UX. I recently completed FullStack training at Northcoders, where I focused on JavaScript, React, Express and PostgreSQL.
----
 
 ## 📚 Background
 Before learning to code, I spent 10+ years in creative communications and video storytelling.  
@@ -13,9 +12,6 @@ Comfortable working across the stack using JavaScript, React, Express, PostgreSQ
 📍 Based in Manchester
 I’m open to junior developer roles, especially those at the intersection of tech, creativity, and wellbeing.
 
----
-
-
 ## 🧡 A bit more about me
 
 Outside of code, I love:
@@ -24,4 +20,3 @@ Outside of code, I love:
 - 🎨 Doodling ideas in notebooks when the mood hits  
 - 🐾 Dreaming of future road trips with a dog, a cat, and a camper
 
----
