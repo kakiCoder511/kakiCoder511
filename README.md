@@ -5,7 +5,6 @@ I’m a creative junior software developer with a background in visual storytell
 ---
 
 ## 📚 Background
-
 Before learning to code, I spent 10+ years in creative communications and video storytelling.  
 Now I’m connecting that emotional insight with interactive tech — building tools that **feel human**.
 
