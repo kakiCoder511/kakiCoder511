@@ -7,10 +7,10 @@ I’m a creative junior software developer with a background in visual storytell
 Before learning to code, I spent 10+ years in creative communications and video storytelling.  
 Now I’m connecting that emotional insight with interactive tech — building tools that **feel human**.
 
-Comfortable working across the stack using JavaScript, React, Express, PostgreSQL and MVC architecture. Experienced with Test-Driven Development (TDD), REST APIs, and collaborative workflows.
+Comfortable working across the stack using JavaScript, Typescript, React, Express, PostgreSQL and MVC architecture. Experienced with Test-Driven Development (TDD), REST APIs, and collaborative workflows.
 
 📍 Based in Manchester
-I’m open to junior developer roles, especially those at the intersection of tech, creativity, and wellbeing.
+I’m open to junior Software Engineer roles, especially those at the intersection of tech, creativity, and wellbeing.
 
 ## 🧡 A bit more about me
 
