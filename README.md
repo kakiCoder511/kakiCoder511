@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kaki Lai
 Junior dev | creative tech & emotion-driven tools | Manchester
 
-I’m a creative junior software developer with a background in visual storytelling and emotional UX. I recently completed FullStack training at Northcoders, where I focused on JavaScript, React, Express and PostgreSQL.
+I’m a creative junior software developer with a background in visual storytelling and UX. I recently completed FullStack training at Northcoders, where I focused on JavaScript, React, Express and PostgreSQL.
 
 ## 📚 Background
 Before learning to code, I spent 10+ years in creative communications and video storytelling.  
